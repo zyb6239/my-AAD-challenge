@@ -12,8 +12,13 @@ Vandecappelle S, Deckers L, Das N, et al. EEG-based detection of the locus of au
 Qinke Ni; Hongyu Zhang; Cunhang Fan; Shengbing Pei; Chang Zhou; Zhao Lv, DBPNet: Dual-Branch Parallel Network with TemporalFrequency Fusion for Auditory Attention Detection. International Joint Conference on Artificial Intelligence (IJCAI 2024).  
 
 ISCSLP 2024 The First Chinese Auditory Attention Decoding Challenge: http://www.iscslp2024.com/ChineseAAD
+
 Challenge Ranking list: https://mp.weixin.qq.com/s/wnIY9-aCuqbrEyxY2RbRWw
+
 AHU dataset: https://iiphci.ahu.edu.cn/toAuditoryAttention
+
 DBPNet(baseline): https://iiphci.ahu.edu.cn/toAuditoryAttentionEnglish
+
 DenseNet-3D: https://github.com/xuxiran/ASAD_DenseNet
+
 CNN: https://github.com/exporl/locus-of-auditory-attention-cnn
