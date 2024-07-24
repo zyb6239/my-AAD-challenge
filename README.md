@@ -17,7 +17,7 @@ Challenge Ranking list: https://mp.weixin.qq.com/s/wnIY9-aCuqbrEyxY2RbRWw
 
 AHU dataset: https://iiphci.ahu.edu.cn/toAuditoryAttention
 
-DBPNet(baseline): https://iiphci.ahu.edu.cn/toAuditoryAttentionEnglish
+DBPNet(baseline): https://github.com/fchest/DBPNet
 
 DenseNet-3D: https://github.com/xuxiran/ASAD_DenseNet
 
