@@ -11,11 +11,12 @@ Vandecappelle S, Deckers L, Das N, et al. EEG-based detection of the locus of au
 ### The DBPNet(baseline) method used in this paper comes from:
 Qinke Ni; Hongyu Zhang; Cunhang Fan; Shengbing Pei; Chang Zhou; Zhao Lv, DBPNet: Dual-Branch Parallel Network with TemporalFrequency Fusion for Auditory Attention Detection. International Joint Conference on Artificial Intelligence (IJCAI 2024).  
 
+### AHU dataset
+Hongyu Zhang; Jingjing Zhang; Xingguang Dong; Zhao Lv; Jianhua Tao; Jian Zhou; Xiaopei Wu; Cunhang Fan, Based on audio-video evoked auditory attention detection electroencephalogram dataset. Journal of Tsinghua University (Science and Technology)
+
 ISCSLP 2024 The First Chinese Auditory Attention Decoding Challenge: http://www.iscslp2024.com/ChineseAAD
 
 Challenge Ranking list: https://mp.weixin.qq.com/s/wnIY9-aCuqbrEyxY2RbRWw
-
-AHU dataset: https://iiphci.ahu.edu.cn/toAuditoryAttention
 
 DBPNet(baseline): https://github.com/fchest/DBPNet
 
